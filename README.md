@@ -71,6 +71,8 @@ Alle knapper er tilsluttet mellem **pin og GND** og bruger Arduinoens indbyggede
 ---
 
 ## Projektstruktur
+
+```
 ├── main.ino
 ├── ui.h
 ├── ui.cpp
