@@ -71,7 +71,16 @@ Alle knapper er tilsluttet mellem **pin og GND** og bruger Arduinoens indbyggede
 ---
 
 ## Projektstruktur
-
+├── main.ino
+├── ui.h
+├── ui.cpp
+├── input.h
+├── input.cpp
+├── rtc_service.h
+├── rtc_service.cpp
+├── dht_service.h
+├── dht_service.cpp
+└── README.md
 
 
 
